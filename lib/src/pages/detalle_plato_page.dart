@@ -8,7 +8,7 @@ class DetallePlatoPage extends StatefulWidget {
 class _DetallePlatoPageState extends State<DetallePlatoPage> {
   @override
   Widget build(BuildContext context) {
-    return Container(
+    return AlertDialog(
       
     );
   }

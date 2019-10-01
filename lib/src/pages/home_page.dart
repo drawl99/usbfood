@@ -134,6 +134,7 @@ class _HomePageState extends State<HomePage> {
         print('funciona');
       },
       child: Container(
+        margin: EdgeInsets.only(left: 10.0, right: 10.0),
         width: 260.0,
         height: 60.0,
         decoration: BoxDecoration(color: Colors.white,
